@@ -1,2 +1,2 @@
 #!/bin/bash
-file -m /usr/share/misc/school.mgc <file_to_check>
+file -m /usr/share/misc/school.mgc
