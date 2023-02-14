@@ -1,1 +1,1 @@
-Script to print Hello World
+Shell I/O redirections
